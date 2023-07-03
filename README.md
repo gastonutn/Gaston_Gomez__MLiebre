@@ -1,3 +1,3 @@
-# TRABAJO PRÁCTICO ESTRUCTURA-WEB
+# TRABAJO PRÁCTICO Estilos Header y Footer
 ## Integrante: Gaston Gomez
-### Descripción: estructura web base en HTML y levantar servidor en express
+### Descripción: se agrega estilos con css al header y el footer
