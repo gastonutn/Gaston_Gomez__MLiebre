@@ -8,7 +8,7 @@ body.home .home_footer h4{
     color: var(--colorGrisOscuro);
 }
 
-body.home .home_footer p{
+.home_footer p{
     font-size: 12px;
     color: var(--colorGrisOscuro);
     margin: 0 35px 50px;
@@ -18,4 +18,8 @@ body.home .home_footer i{
     font-size: 2em;
     margin-bottom: 10px;
     color: var(--colorCeleste);
+}
+body.home .home_footer_p{
+    text-align: left;
+    margin-left: 10px;
 }
