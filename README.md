@@ -1,3 +1,3 @@
-# TRABAJO PRÁCTICO Estilos Header y Footer
+# TRABAJO PRÁCTICO Responsive Design
 ## Integrante: Gaston Gomez
-### Descripción: se agrega estilos con css al header y el footer
+### Descripción: diseño responsivo del proyecto y estilos al main.
