@@ -1,3 +1,3 @@
-# TRABAJO PRÁCTICO Responsive Design
+# TRABAJO PRÁCTICO FlexBox
 ## Integrante: Gaston Gomez
-### Descripción: diseño responsivo del proyecto y estilos al main.
+### Descripción: Diseño del main y responsive de la pagina en general con flexbox
