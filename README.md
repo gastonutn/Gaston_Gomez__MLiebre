@@ -1,3 +1,3 @@
-# TRABAJO PRÁCTICO Formularios
+# TRABAJO PRÁCTICO animaciones
 ## Integrante: Gaston Gomez
-### Descripción: Formularios de registro y login
+### Descripción: se agregan animaciones y correcciones en general
