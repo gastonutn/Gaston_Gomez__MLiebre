@@ -52,9 +52,15 @@
     background-color: var(--colorGrisClaro);
     border: solid 1px var(--colorGrisOscuro);
     border-radius: 15%;
+    
 }
 .home_header--menu{
-    display: none;
+    height: 0;
+    overflow: hidden;
+    transition: all 1s ease;
+}
+.showMenu{
+    height: auto;
 }
 
  .home_header--menu a, .home_header--menu ul{
@@ -74,14 +80,15 @@
     color: var(--colorGrisClaro);
     text-align: center; 
     margin:auto;
-    margin-bottom: 10px;
-    
+    margin-bottom: 10px;  
 }
+
  .home_header_burger--menu i{
     background-color: var(--colorCeleste);
     padding: 8px;
     border-radius: 5px;
     font-size: 16px;
+    cursor:pointer;
 }
 /* media q tablets */
 
@@ -97,6 +104,7 @@
         padding: 0;
     }
     .home_header--menu{
+        height: auto;
         display: flex;
         flex-direction: row;
         justify-content: space-between;

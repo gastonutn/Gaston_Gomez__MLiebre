@@ -29,3 +29,19 @@
     max-width: 420px;
     margin: auto;
 }
+
+@media (min-width:769px){
+    .home_footer{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        text-align: center
+    }
+    .home_footer article{
+        width: 30%;
+    }
+    .home_footer i:hover{
+        color: #000000;
+    }
+
+}
