@@ -1,3 +1,3 @@
-# TRABAJO PRÁCTICO FlexBox
+# TRABAJO PRÁCTICO Formularios
 ## Integrante: Gaston Gomez
-### Descripción: Diseño del main y responsive de la pagina en general con flexbox
+### Descripción: Formularios de registro y login
