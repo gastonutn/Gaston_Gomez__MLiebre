@@ -7,7 +7,3 @@
 ## [Mercado Liebre 6 - animaciones](https://github.com/gastonutn/MercadoLiebre/tree/animaciones)
 
 
-
-# TRABAJO PRÁCTICO Formularios
-## Integrante: Gaston Gomez
-### Descripción: Formularios de registro y login
